@@ -1,0 +1,391 @@
+#myNavbar
+{
+    font-size: 22;
+}
+
+#myNavbar:hover
+{
+    font-size: 25;
+    text-decoration: underline;
+}
+
+.navbar-brand
+{
+    font-size: 25;
+    font-weight: 300;
+    font-family: cursive;
+    font-style: normal;
+}
+
+#home
+{
+    background-color: yellow;
+    text-align: center;
+}
+
+.homepic
+{
+    border-radius: 25%;
+    height: 550;
+    border: black;
+}
+
+.homeline
+{
+    text-align: center;
+    font-size: 60;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: black;
+}
+
+.homename
+{
+    text-align: center;
+    font-size: 110;
+    color: black;
+    font-family: cursive;
+    text-shadow: black;
+}
+
+.homepara
+{
+    text-align: center;
+    text-decoration: none;
+    font-size: 30;
+    color: black;
+    text-shadow: black;
+}
+
+#about
+{
+    text-align: center;
+    background-color: aqua;
+}
+
+.aboutpic
+{
+    border-radius: 50%;
+    height: 560;
+}
+
+.aboutline
+{
+    text-align: center;
+    font-size: 40;
+    color: black;
+    text-shadow: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.aboutname
+{
+    text-align: center;
+    font-size: 60;
+    color: black;
+    text-shadow: black;
+    font-family: cursive;
+}
+
+.aboutpara
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-size: 35;
+}
+
+#facility
+{
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+.facilityline
+{
+    text-align: center;
+    font-size: 40;
+    color: black;
+    text-shadow: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.facilityname
+{
+    text-align: center;
+    font-size: 60;
+    color: black;
+    text-shadow: black;
+    font-family: cursive;
+    font-weight: 300;
+}
+
+.fp
+{
+    text-align: left;
+    font-size: 40;
+}
+
+.facilitypic
+{
+    border-radius: 50%;
+    height: 800;
+    text-align: center;
+    align-items: center;
+    width: 890;
+    float: right;
+}
+
+#menu
+{
+    background-color: red;
+    text-align: center;
+}
+
+.menuline
+{
+    text-align: center;
+    font-size: 40;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menuname
+{
+    text-align: center;
+    font-size: 60;
+    font-family: cursive;
+}
+
+.hg
+{
+    text-align: center;
+    font-size: 50;
+}
+
+.hg:hover
+{
+    font-size: 55;
+}
+
+#location
+{
+    background-color: cyan;
+}
+
+.locationline
+{
+    text-align: center;
+    font-size: 60;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.locationname
+{
+    text-align: center;
+    font-size: 80;
+    font-family: cursive;
+}
+
+.loco
+{
+    width: 100%;
+    height: 770;
+}
+
+#contact
+{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.contactline
+{
+    text-align: center;
+    font-size: 40;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contactname
+{
+    text-align: center;
+    font-size: 60;
+    font-family: cursive;
+}
+
+.hm
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.cc
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.hh
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.hp
+{
+    text-align: center;
+    font-size: 50;
+    font-family: arial black;
+}
+
+.bh1
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.cp
+{
+    border-radius: 50%;
+    height: 400;
+    text-align: center;
+}
+
+.menupic
+{
+    border-radius: 50%;
+    height: 550;
+}
+
+.cp2
+{
+    float: left;
+    height: 400;
+    border-radius: 50%;
+    width: 550;
+}
+
+.cp3
+{
+    float: right;
+    height: 400;
+    border-radius: 50%;
+    width: 550;
+}
+
+#follow
+{
+    background-color: orange;
+    text-align: center;
+}
+
+.followline
+{
+    text-align: center;
+    font-weight: 300;
+    font-family: cursive;
+    font-size: 40;
+}
+
+.facpic
+{
+    float: left;
+    text-align: center;
+    float: left;
+    height: 600;
+    right: 300;
+    width: 600;
+    border: 10px;
+}
+
+.facbook
+{
+    text-align: left;
+}
+
+.instapic
+{
+    text-align: center;
+    float: center;
+    align-self: center;
+    height: 600;
+    width: 600;
+    border: 5px;
+}
+
+.locopic
+{
+    height: 600;
+    width: 680;
+    
+}
+
+#book
+{
+    background-color: bisque;
+    font-size: 60;
+    text-align: center;
+}
+
+.bookname
+{
+    text-align: center;
+    font-size: 100;
+    color: black;
+    font-family: cursive;
+}
+
+.btn
+{
+    text-align: center;
+    font-size: 60;
+}
+
+#form
+{
+    text-align: center;
+    font-size: 25;
+}
+
+.formname
+{
+    font-size: 35;
+    font-family: cursive;
+    text-align: center;
+}
+
+.checkbox
+{
+    display: inline-flex;
+    align-items: center;
+}
+
+.bol
+{
+    background-color: greenyellow;
+    font-family: arial black;
+}
+
+.div1
+{
+    float: left;
+    padding-left: 225;
+    font-size: 20;
+    font-family: arial black;
+}
+
+.div2
+{
+    text-align: center;
+    padding-right: 475;
+    font-size: 20;
+    font-family: arial black;
+}
+
+.div3
+{
+    font-family: arial black;
+    font-size: 20;
+    text-align: right;
+    padding-right: 300;
+    padding-top: 10;
+}
